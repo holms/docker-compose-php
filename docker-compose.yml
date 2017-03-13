@@ -15,8 +15,6 @@ services:
   app:
     container_name: app
     image: php:7-fpm
-    ports:
-      - "9000"
     volumes:
       - ./app:/app
     environment:
