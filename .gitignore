@@ -1,0 +1,17 @@
+# Project repositories
+# app/
+
+# IDE's
+.idea/
+.vscode/
+*.swp
+
+# OS stuff
+__MACOSX
+.DS_Store
+*.log
+
+# Docker related
+docker-volumes/
+db-dumps/
+
